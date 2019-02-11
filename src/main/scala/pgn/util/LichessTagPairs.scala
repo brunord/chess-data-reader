@@ -33,4 +33,11 @@ object LichessTagPair extends Enumeration {
   val TIME_CONTROL = Value("TimeControl")
 
   val OPENING = Value("Opening")
+
+  def stringValues = {
+    var fields = List[String]()
+    LichessTagPair.values.foreach(value => {fields = fields :+ value.toString})
+    fields
+  }
+
 }

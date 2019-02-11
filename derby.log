@@ -1,6 +1,6 @@
 ----------------------------------------------------------------
-Sat Feb 09 15:56:27 EST 2019:
-Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.2.0 - (1582446): instance a816c00e-0168-d40c-13b8-00000ae3d438 
+Sun Feb 10 23:45:56 EST 2019:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.2.0 - (1582446): instance a816c00e-0168-dae0-3fe0-00000db65270 
 on database directory /Users/brunorodrigues/IdeaProjects/pgn-parser/metastore_db with class loader org.apache.spark.sql.hive.client.IsolatedClientLoader$$anon$1@6f52a229 
 Loaded from file:/Users/brunorodrigues/.ivy2/cache/org.apache.derby/derby/jars/derby-10.10.2.0.jar
 java.vendor=Oracle Corporation
